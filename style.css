@@ -6,7 +6,6 @@
   margin: 0;
   padding: 0;
   background-color: white;
-
 }
 
 li, a, button{
@@ -46,4 +45,21 @@ h1{
   font-family: "Oswald", sans-serif;
   text-align: center;
   font-size: 70px;
+}
+
+h2{
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+}
+
+#pong{
+  position: relative;
+  left: 90px;
+  top: 2px;
+}
+
+.img{
+  position: relative;
+  left: 80px;
+  top: 2px;
 }
