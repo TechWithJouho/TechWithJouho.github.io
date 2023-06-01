@@ -58,12 +58,6 @@ h2{
   top: 2px;
 }
 
-#flappy{
-  position: relative;
-  left: 180px;
-  top: 2px;
-}
-
 .img{
   position: relative;
   left: 80px;
@@ -73,4 +67,9 @@ h2{
 #mainheading{
   text-align: center;
   color: aqua;
+}
+
+p{
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
 }
