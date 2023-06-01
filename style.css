@@ -58,13 +58,19 @@ h2{
   top: 2px;
 }
 
+#flappy{
+  position: relative;
+  left: 180px;
+  top: 2px;
+}
+
 .img{
   position: relative;
   left: 80px;
   top: 2px;
 }
 
-#main_heading{
+#mainheading{
   text-align: center;
   color: aqua;
 }
