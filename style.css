@@ -48,7 +48,7 @@ h1{
 }
 
 h2{
-  font-family: "Oswald", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-size: 50px;
 }
 
@@ -62,4 +62,9 @@ h2{
   position: relative;
   left: 80px;
   top: 2px;
+}
+
+#main_heading{
+  text-align: center;
+  color: aqua;
 }
